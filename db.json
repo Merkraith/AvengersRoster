@@ -1,0 +1,70 @@
+{
+    "avengers": [
+        {
+            "id": 1,
+            "name": {
+                "super": "Captain America",
+                "first": "Steve",
+                "last": "Rogers"
+            },
+            "picture": {
+                "medium": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/CapAmerica-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175339"
+            }
+        },
+        {
+            "id": 1,
+            "name": {
+                "super": "Iron Man",
+                "first": "Tony",
+                "last": "Stark"
+            },
+            "picture": {
+                "medium": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213"
+            }
+        },
+        {
+            "id": 1,
+            "name": {
+                "super": "God of Thunder",
+                "first": "Thor",
+                "last": "Odinson"
+            },
+            "picture": {
+                "medium": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/Thor-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174911"
+            }
+        },
+        {
+            "id": 1,
+            "name": {
+                "super": "The Incredible Hulk",
+                "first": "Bruce",
+                "last": "Banner"
+            },
+            "picture": {
+                "medium": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/ProfHulkAvengersEndgamelicensingart001.jpg/revision/latest/scale-to-width-down/310?cb=20190506122658"
+            }
+        },
+        {
+            "id": 1,
+            "name": {
+                "super": "Black Widow",
+                "first": "Natasha",
+                "last": "Romanoff"
+            },
+            "picture": {
+                "medium": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/9/9a/BlackWidow-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174842"
+            }
+        },
+        {
+            "id": 1,
+            "name": {
+                "super": "Hawkeye",
+                "first": "Clint",
+                "last": "Barton"
+            },
+            "picture": {
+                "medium": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/HawkeyeRonin-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175147"
+            }
+        }
+    ]
+}
